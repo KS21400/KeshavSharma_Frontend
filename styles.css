@@ -1,0 +1,11 @@
+*{
+    padding: 10px;
+}
+.row {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.chart{
+    border-bottom: 1px ridge;
+}
